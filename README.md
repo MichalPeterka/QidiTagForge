@@ -1,7 +1,7 @@
 # QidiTagForge
 
-F# Avalonia application for reading and writing QIDI Box RFID tag data.
-
+Application for reading and writing QIDI Box RFID tag data.
+![mainWindow.png](img/mainWindow.png)
 ## License
 
 This project is licensed under the Creative Commons Attribution-
