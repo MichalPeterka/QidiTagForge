@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <UseAppHost>true</UseAppHost>
+    <AssemblyName>QidiTagForge</AssemblyName>
+    <RootNamespace>QidiTagForge</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="Domain.fs" />
+    <Compile Include="Database.fs" />
+    <Compile Include="Text.fs" />
+    <Compile Include="Rfid.fs" />
+    <Compile Include="Views.fs" />
+    <Compile Include="Program.fs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Avalonia.Desktop" Version="11.3.14" />
+    <PackageReference Include="Avalonia.FuncUI" Version="1.6.0" />
+    <PackageReference Include="Avalonia.Themes.Fluent" Version="11.3.14" />
+    <PackageReference Include="PCSC" Version="7.0.1" />
+  </ItemGroup>
+</Project>

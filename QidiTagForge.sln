@@ -1,0 +1,18 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "QidiTagForge", "src\QidiTagForge\QidiTagForge.fsproj", "{35A5DF84-D6EE-4C8F-889E-050C7158020C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35A5DF84-D6EE-4C8F-889E-050C7158020C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35A5DF84-D6EE-4C8F-889E-050C7158020C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35A5DF84-D6EE-4C8F-889E-050C7158020C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35A5DF84-D6EE-4C8F-889E-050C7158020C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
