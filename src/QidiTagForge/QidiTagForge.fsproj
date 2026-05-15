@@ -5,6 +5,7 @@
     <UseAppHost>true</UseAppHost>
     <AssemblyName>QidiTagForge</AssemblyName>
     <RootNamespace>QidiTagForge</RootNamespace>
+    <ApplicationIcon>Assets\QidiTagForge.ico</ApplicationIcon>
   </PropertyGroup>
 
   <ItemGroup>
